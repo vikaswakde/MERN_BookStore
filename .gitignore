@@ -1,3 +1,4 @@
+node_modules
 # Other previously existing rules...
 
 # Ignore config.js in backend/routes
