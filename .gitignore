@@ -1,0 +1,4 @@
+# Other previously existing rules...
+
+# Ignore config.js in backend/routes
+backend/routes/config.js
